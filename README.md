@@ -1,0 +1,1 @@
+This Pomodoro Timer is a simple desktop application built with Python and Tkinter. It implements the Pomodoro Technique, a time management method that uses a timer to break work into intervals, traditionally 25 minutes in length, separated by short and long breaks.
